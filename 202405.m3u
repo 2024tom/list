@@ -25,7 +25,7 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="台湾中天新闻http://livetv.skycf.eu.org/live.m3u8?c=7" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻http://livetv.skycf.eu.org/live.m3u8?c=7.png" group-title="常用台",台湾中天新闻http://livetv.skycf.eu.org/live.m3u8?c=7
+#EXTINF:-1 tvg-name="台湾中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻http://livetv.skycf.eu.org/live.m3u8?c=7.png" group-title="常用台",台湾中天新闻http://livetv.skycf.eu.org/live.m3u8?c=7
 undefined
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="省内台",沈阳新闻综合
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
