@@ -17,10 +17,10 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="常用台",CCTV-16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="常用台",深圳卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="常用台",深圳卫视
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="常用台",凤凰中文台
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
@@ -223,20 +223,10 @@ http://198.204.239.194:27347/livehlsplay?channel_id=30016
 http://107.173.156.27:9500/live.m3u8?c=4
 #EXTINF:-1 tvg-name="台湾TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/台湾TVBS新闻.png" group-title="香港台",台湾TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
-http://107.173.156.27:9500/live.m3u8?c=62
-#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
-http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
 http://107.173.156.27:9500/live.m3u8?c=3
 #EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
 http://211.23.114.106:8501/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
-http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1 tvg-name="台湾台视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾台视新闻.png" group-title="香港台",台湾台视新闻
 http://107.173.156.27:9500/live.m3u8?c=11
 #EXTINF:-1 tvg-name="台湾台视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾台视新闻.png" group-title="香港台",台湾台视新闻
@@ -411,8 +401,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚2019" tvg-logo="https://live.fanmingming.com/tv/春晚2019.png" group-title="春晚",春晚2019
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.com/tv/春晚2020.png" group-title="春晚",春晚2020
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 #EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.com/tv/春晚2020.png" group-title="春晚",春晚2020
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚2021" tvg-logo="https://live.fanmingming.com/tv/春晚2021.png" group-title="春晚",春晚2021
