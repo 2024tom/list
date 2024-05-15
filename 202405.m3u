@@ -1,186 +1,520 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="常用台",沈阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+undefined
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="常用台",沈阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0
+undefined
+#EXTINF:-1 tvg-name="Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059" tvg-logo="https://live.fanmingming.com/tv/Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059.png" group-title="常用台",Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059
+undefined
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000058
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0
+undefined
+#EXTINF:-1 tvg-name="Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000058" tvg-logo="https://live.fanmingming.com/tv/Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000058.png" group-title="常用台",Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000058
+undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV-1
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488
+undefined
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV-13
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+undefined
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+undefined
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="常用台",CCTV-5
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+undefined
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="常用台",CCTV-5+
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246.png" group-title="常用台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+undefined
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="常用台",CCTV-16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="常用台",深圳卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0
+undefined
+#EXTINF:-1 tvg-name="Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100" tvg-logo="https://live.fanmingming.com/tv/Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100.png" group-title="常用台",Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000100
+undefined
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0.png" group-title="常用台",playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0
+undefined
+#EXTINF:-1 tvg-name="Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611" tvg-logo="https://live.fanmingming.com/tv/Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611.png" group-title="常用台",Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611
+undefined
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="常用台",凤凰中文台
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7.png" group-title="常用台",台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7
-undefined
+#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="常用台",台湾中天新闻
+http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="常用台",台湾东森新闻
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="省内台",沈阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+undefined
 #EXTINF:-1 tvg-name="丹东新闻综合" tvg-logo="https://live.fanmingming.com/tv/丹东新闻综合.png" group-title="省内台",丹东新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
+undefined
 #EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://live.fanmingming.com/tv/大连新闻综合.png" group-title="省内台",大连新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
+undefined
 #EXTINF:-1 tvg-name="抚顺新闻综合" tvg-logo="https://live.fanmingming.com/tv/抚顺新闻综合.png" group-title="省内台",抚顺新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275
+undefined
 #EXTINF:-1 tvg-name="本溪新闻综合" tvg-logo="https://live.fanmingming.com/tv/本溪新闻综合.png" group-title="省内台",本溪新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312
+undefined
 #EXTINF:-1 tvg-name="营口新闻综合" tvg-logo="https://live.fanmingming.com/tv/营口新闻综合.png" group-title="省内台",营口新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
+undefined
 #EXTINF:-1 tvg-name="鞍山新闻综合" tvg-logo="https://live.fanmingming.com/tv/鞍山新闻综合.png" group-title="省内台",鞍山新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274
+undefined
 #EXTINF:-1 tvg-name="辽阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽阳新闻综合.png" group-title="省内台",辽阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
+undefined
 #EXTINF:-1 tvg-name="锦州新闻综合" tvg-logo="https://live.fanmingming.com/tv/锦州新闻综合.png" group-title="省内台",锦州新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
+undefined
 #EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://live.fanmingming.com/tv/铁岭新闻综合.png" group-title="省内台",铁岭新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
+undefined
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/朝阳新闻综合.png" group-title="省内台",朝阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
+undefined
 #EXTINF:-1 tvg-name="阜新新闻综合" tvg-logo="https://live.fanmingming.com/tv/阜新新闻综合.png" group-title="省内台",阜新新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
+undefined
 #EXTINF:-1 tvg-name="盘锦新闻综合" tvg-logo="https://live.fanmingming.com/tv/盘锦新闻综合.png" group-title="省内台",盘锦新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283.png" group-title="省内台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
+undefined
 #EXTINF:-1 tvg-name="葫芦岛新闻综合" tvg-logo="https://live.fanmingming.com/tv/葫芦岛新闻综合.png" group-title="省内台",葫芦岛新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000284
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0.png" group-title="省内台",playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0
+undefined
+#EXTINF:-1 tvg-name="Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000284" tvg-logo="https://live.fanmingming.com/tv/Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000284.png" group-title="省内台",Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000284
+undefined
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="辽宁台",辽宁体育
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
+undefined
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="辽宁台",辽宁卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058
+undefined
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="辽宁台",辽宁北方
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+undefined
 #EXTINF:-1 tvg-name="北方导视" tvg-logo="https://live.fanmingming.com/tv/北方导视.png" group-title="辽宁台",北方导视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187
+undefined
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="辽宁台",辽宁公共
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+undefined
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="辽宁台",辽宁公共
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000481
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000481" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000481.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000481
+undefined
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.com/tv/辽宁生活.png" group-title="辽宁台",辽宁生活
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+undefined
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="辽宁台",辽宁经济
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+undefined
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="辽宁台",辽宁经济
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000480
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000480" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000480.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000480
+undefined
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁都市.png" group-title="辽宁台",辽宁都市
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
+undefined
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁都市.png" group-title="辽宁台",辽宁都市
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
+undefined
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="辽宁台",辽宁影视剧
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+undefined
 #EXTINF:-1 tvg-name="辽宁青少" tvg-logo="https://live.fanmingming.com/tv/辽宁青少.png" group-title="辽宁台",辽宁青少
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="辽宁台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075.png" group-title="辽宁台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+undefined
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央台",CCTV-1
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000488
+undefined
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央台",CCTV-2
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061
+undefined
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央台",CCTV-3
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+undefined
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央台",CCTV-4
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
+undefined
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央台",CCTV-5
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+undefined
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央台",CCTV-5+
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+undefined
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中央台",CCTV-6
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065
+undefined
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央台",CCTV-7
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127
+undefined
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央台",CCTV-8
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066
+undefined
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中央台",CCTV-9
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000128
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000128" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000128.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000128
+undefined
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中央台",CCTV-10
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129
+undefined
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中央台",CCTV-11
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130
+undefined
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央台",CCTV-12
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000131
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000131" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000131.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000131
+undefined
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中央台",CCTV-13
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+undefined
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央台",CCTV-14
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132
+undefined
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央台",CCTV-15
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+undefined
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央台",CCTV-17
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="中央台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204.png" group-title="中央台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204
+undefined
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="各省台",吉林卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097
+undefined
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="各省台",黑龙江卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000095
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000095" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000095.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000095
+undefined
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="各省台",北京卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000083
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000083" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000083.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000083
+undefined
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="各省台",天津卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+http://
+#EXTINF:-1 tvg-name="[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8.png" group-title="各省台",[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+undefined
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="各省台",东方卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093
+undefined
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="各省台",东南卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000483
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000483" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000483.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000483
+undefined
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="各省台",江苏卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000085
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000085" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000085.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000085
+undefined
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="各省台",浙江卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094
+undefined
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="各省台",湖北卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000102
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000102" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000102.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000102
+undefined
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="各省台",湖南卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086
+undefined
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="各省台",山东卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099
+undefined
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="各省台",山西卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000109
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000109" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000109.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000109
+undefined
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="各省台",河北卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000108
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000108" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000108.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000108
+undefined
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="各省台",河南卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000339
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000339" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000339.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000339
+undefined
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="各省台",广东卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000092
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000092" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000092.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000092
+undefined
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="各省台",广西卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116
+undefined
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="各省台",安徽卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000096
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000096" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000096.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000096
+undefined
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="各省台",江西卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000098
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000098" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000098.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000098
+undefined
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="各省台",四川卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103
+undefined
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="各省台",重庆卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000107
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000107" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000107.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000107
+undefined
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="各省台",陕西卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000512
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000512" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000512.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000512
+undefined
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="各省台",内蒙古卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000110
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000110" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000110.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000110
+undefined
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="各省台",宁夏卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000118
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000118" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000118.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000118
+undefined
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="各省台",甘肃卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000119
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000119" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000119.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000119
+undefined
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="各省台",青海卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000111
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000111" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000111.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000111
+undefined
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="各省台",云南卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000482
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000482" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000482.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000482
+undefined
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="各省台",贵州卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000101
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000101" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000101.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000101
+undefined
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="各省台",西藏卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000121
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000121" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000121.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000121
+undefined
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="各省台",海南卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000473
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000473" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000473.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000473
+undefined
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="各省台",深圳卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000100
+http://httplive.slave.bfgd.com.cn:14311/playurl?
+#EXTINF:-1 tvg-name="playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0" tvg-logo="https://live.fanmingming.com/tv/playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0.png" group-title="各省台",playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0
+undefined
+#EXTINF:-1 tvg-name="Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000100" tvg-logo="https://live.fanmingming.com/tv/Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000100.png" group-title="各省台",Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000100
+undefined
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
 http://113.64.145.93:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
@@ -188,7 +522,9 @@ http://146.56.153.245:20121/bysid/258
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
 http://198.204.239.194:27347/livehlsplay?channel_id=30014
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
-https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
+
+#EXTINF:-1 tvg-name="https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8" tvg-logo="https://live.fanmingming.com/tv/https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8.png" group-title="香港台",https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
+undefined
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
 http://www.cdtriot.cn:9999/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="香港台",凤凰中文台
@@ -200,7 +536,15 @@ http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="香港台",凤凰资讯台
 http://198.204.239.194:27347/livehlsplay?channel_id=30015
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="香港台",凤凰资讯台
-http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.86:8081/hls/36/index.m3u8#http://113.64.145.100:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http://113.64.145.121:8081/hls/36/index.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+
+#EXTINF:-1 tvg-name="http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.86:8081/hls/36/index.m3u8#htt" tvg-logo="https://live.fanmingming.com/tv/http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.86:8081/hls/36/index.m3u8#htt.png" group-title="香港台",http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.86:8081/hls/36/index.m3u8#htt
+undefined
+#EXTINF:-1 tvg-name="p://113.64.145.100:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http" tvg-logo="https://live.fanmingming.com/tv/p://113.64.145.100:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http.png" group-title="香港台",p://113.64.145.100:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http
+undefined
+#EXTINF:-1 tvg-name="://113.64.145.121:8081/hls/36/index.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3" tvg-logo="https://live.fanmingming.com/tv/://113.64.145.121:8081/hls/36/index.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3.png" group-title="香港台",://113.64.145.121:8081/hls/36/index.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3
+undefined
+#EXTINF:-1 tvg-name="u8" tvg-logo="https://live.fanmingming.com/tv/u8.png" group-title="香港台",u8
+undefined
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="香港台",凤凰资讯台
 http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="香港台",凤凰资讯台
@@ -342,11 +686,21 @@ http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 #EXTINF:-1 tvg-name="咪咕直播-48" tvg-logo="https://live.fanmingming.com/tv/咪咕直播-48.png" group-title="咪咕体育",咪咕直播-48
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="春晚1983" tvg-logo="https://live.fanmingming.com/tv/春晚1983.png" group-title="春晚",春晚1983
-https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
+https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-
+#EXTINF:-1 tvg-name="nmgf0aiczefpbjyv.mp4" tvg-logo="https://live.fanmingming.com/tv/nmgf0aiczefpbjyv.mp4.png" group-title="春晚",nmgf0aiczefpbjyv.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚1984" tvg-logo="https://live.fanmingming.com/tv/春晚1984.png" group-title="春晚",春晚1984
-http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3
+undefined
+#EXTINF:-1 tvg-name="MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4" tvg-logo="https://live.fanmingming.com/tv/MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4.png" group-title="春晚",MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚1985" tvg-logo="https://live.fanmingming.com/tv/春晚1985.png" group-title="春晚",春晚1985
-http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAw" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAw.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAw
+undefined
+#EXTINF:-1 tvg-name="MzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4" tvg-logo="https://live.fanmingming.com/tv/MzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4.png" group-title="春晚",MzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚1986" tvg-logo="https://live.fanmingming.com/tv/春晚1986.png" group-title="春晚",春晚1986
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚1987" tvg-logo="https://live.fanmingming.com/tv/春晚1987.png" group-title="春晚",春晚1987
@@ -354,7 +708,11 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 #EXTINF:-1 tvg-name="春晚1988" tvg-logo="https://live.fanmingming.com/tv/春晚1988.png" group-title="春晚",春晚1988
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 #EXTINF:-1 tvg-name="春晚1989" tvg-logo="https://live.fanmingming.com/tv/春晚1989.png" group-title="春晚",春晚1989
-http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2
+undefined
+#EXTINF:-1 tvg-name="OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4" tvg-logo="https://live.fanmingming.com/tv/OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4.png" group-title="春晚",OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚1991" tvg-logo="https://live.fanmingming.com/tv/春晚1991.png" group-title="春晚",春晚1991
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚1992" tvg-logo="https://live.fanmingming.com/tv/春晚1992.png" group-title="春晚",春晚1992
@@ -412,12 +770,24 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚2019" tvg-logo="https://live.fanmingming.com/tv/春晚2019.png" group-title="春晚",春晚2019
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.com/tv/春晚2020.png" group-title="春晚",春晚2020
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAy" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAy.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAy
+undefined
+#EXTINF:-1 tvg-name="MTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4" tvg-logo="https://live.fanmingming.com/tv/MTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4.png" group-title="春晚",MTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.com/tv/春晚2020.png" group-title="春晚",春晚2020
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 #EXTINF:-1 tvg-name="春晚2021" tvg-logo="https://live.fanmingming.com/tv/春晚2021.png" group-title="春晚",春晚2021
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3
+undefined
+#EXTINF:-1 tvg-name="NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4" tvg-logo="https://live.fanmingming.com/tv/NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4.png" group-title="春晚",NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚2022" tvg-logo="https://live.fanmingming.com/tv/春晚2022.png" group-title="春晚",春晚2022
-http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+
+#EXTINF:-1 tvg-name="http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4" tvg-logo="https://live.fanmingming.com/tv/http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4.png" group-title="春晚",http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4
+undefined
+#EXTINF:-1 tvg-name="NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4" tvg-logo="https://live.fanmingming.com/tv/NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4.png" group-title="春晚",NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+undefined
 #EXTINF:-1 tvg-name="春晚2023" tvg-logo="https://live.fanmingming.com/tv/春晚2023.png" group-title="春晚",春晚2023
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
