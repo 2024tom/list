@@ -25,8 +25,10 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="常用台",台湾中天新闻
-http://livetv.skycf.eu.org/live.m3u8?c=7
+#EXTINF:-1 tvg-name="台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7.png" group-title="常用台",台湾中天新闻	http://livetv.skycf.eu.org/live.m3u8?c=7
+undefined
+#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="常用台",台湾东森新闻
+http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合.png" group-title="省内台",沈阳新闻综合
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
 #EXTINF:-1 tvg-name="丹东新闻综合" tvg-logo="https://live.fanmingming.com/tv/丹东新闻综合.png" group-title="省内台",丹东新闻综合
@@ -217,8 +219,30 @@ http://113.64.145.93:8081/hls/38/index.m3u8
 http://146.56.153.245:20121/bysid/259
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="香港台",凤凰香港台
 http://198.204.239.194:27347/livehlsplay?channel_id=30016
+#EXTINF:-1 tvg-name="台湾TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/台湾TVBS新闻.png" group-title="香港台",台湾TVBS新闻
+http://107.173.156.27:9500/live.m3u8?c=4
+#EXTINF:-1 tvg-name="台湾TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/台湾TVBS新闻.png" group-title="香港台",台湾TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
+http://107.173.156.27:9500/live.m3u8?c=62
+#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
+http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台湾东森新闻" tvg-logo="https://live.fanmingming.com/tv/台湾东森新闻.png" group-title="香港台",台湾东森新闻
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
+http://107.173.156.27:9500/live.m3u8?c=3
+#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
+http://211.23.114.106:8501/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 tvg-name="台湾中天新闻" tvg-logo="https://live.fanmingming.com/tv/台湾中天新闻.png" group-title="香港台",台湾中天新闻
+http://livetv.skycf.eu.org/live.m3u8?c=7
+#EXTINF:-1 tvg-name="台湾台视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾台视新闻.png" group-title="香港台",台湾台视新闻
+http://107.173.156.27:9500/live.m3u8?c=11
 #EXTINF:-1 tvg-name="台湾台视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾台视新闻.png" group-title="香港台",台湾台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="台湾民视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾民视新闻.png" group-title="香港台",台湾民视新闻
+http://107.173.156.27:9500/live.m3u8?c=1
 #EXTINF:-1 tvg-name="台湾民视新闻" tvg-logo="https://live.fanmingming.com/tv/台湾民视新闻.png" group-title="香港台",台湾民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="咪咕直播-1" tvg-logo="https://live.fanmingming.com/tv/咪咕直播-1.png" group-title="咪咕体育",咪咕直播-1
