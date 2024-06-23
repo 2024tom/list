@@ -1,25 +1,46 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="常用台",辽宁卫视 https://stream.freetv.fun/17ea1f144b59263f2d36f5a90298c702b333d93f03fe2b2addb4b2bd20fb3401.m3u8
-#EXTINF:-1 group-title="常用台",辽宁卫视 https://stream.freetv.fun/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f77bc40e1b1c.m3u8
-#EXTINF:-1 group-title="常用台",辽宁卫视 https://stream.freetv.fun/30c73d21e6a686395dc3560fb95f93890b280c43a62998db7a9a5476844470ea.m3u8
-#EXTINF:-1 group-title="常用台",CCTV1 https://stream.freetv.fun/0ef91c51031b7772fdb7b080bc006776d112c7d029b86cfca9bad6c4294c53bb.m3u8
-#EXTINF:-1 group-title="常用台",CCTV1 https://stream.freetv.fun/1be7b03a5e2e8ea8279136571ddd62d0a6115f12adafb11abf139defa629feb1.m3u8
-#EXTINF:-1 group-title="常用台",CCTV1 https://stream.freetv.fun/2eef9f8c5d705a92278310f3487bf30a060b8fff51dba2b7191ba49652ca3a67.m3u8
-#EXTINF:-1 group-title="常用台",CCTV13 https://stream.freetv.fun/864260dae46a78acb1e8ed369525d1c3b8bc16aa69c8789aea0bccf831b6ac40.m3u8
-#EXTINF:-1 group-title="常用台",CCTV13 https://stream.freetv.fun/905e61186a743eb0ec6e6d9cb7752d24fd326912824a00bf70584c3c17c6de88.m3u8
-#EXTINF:-1 group-title="常用台",CCTV13 https://stream.freetv.fun/938027f33eac943a495b2945e0aecc079e289def6dfaa4028b329f521baad857.m3u8
-#EXTINF:-1 group-title="常用台",CCTV3 https://stream.freetv.fun/0e834c6cd6302e55436f760d91369a1e6fae39c2d713f28d9ae5c6134672c0cc.m3u8
-#EXTINF:-1 group-title="常用台",CCTV3 https://stream.freetv.fun/3f109a2dbe9bdf8e5652d95baed8901ae0b19e4b153dd3a2655588dbd231c6e5.m3u8
-#EXTINF:-1 group-title="常用台",CCTV3 https://stream.freetv.fun/79fa3dfbae67be671edcb57f289f83b05b0c7240cb03d7d08268be291493369c.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5 https://stream.freetv.fun/1fb410350d0e3242e8daa58e881a026638b4312e90abbb03d5ea0c06b19bbb0b.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5 https://stream.freetv.fun/5ac66853aba5cb7882c4a8c9933707dda018ab3f2843a10da7db6642febe56cb.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5 https://stream.freetv.fun/5e8c1e3a97a30f74d4a12db63254feca462e6dc5d0b668092ce1315d96d67613.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5+ https://stream.freetv.fun/064ae858f16f0f0cc6e7632565469fecbe638db961ac1e5f6819b50c7aed99da.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5+ https://stream.freetv.fun/3fff25613ac0ffd3d4adb549719315b585868cbe225e9aecfe6917eee97ab492.m3u8
-#EXTINF:-1 group-title="常用台",CCTV5+ https://stream.freetv.fun/43c445496749c8007bf03f98b5a2e5a5ecce25c7b2fc95b83d940257c0158d72.m3u8
-#EXTINF:-1 group-title="常用台",CCTV16 https://stream.freetv.fun/1eed949b051a1f777c857e48a480a2010933f0d05751a38873ebe553b4014183.m3u8
-#EXTINF:-1 group-title="常用台",CCTV16 https://stream.freetv.fun/2070e29726e74ff228f5aa5f59fd24f7d8f694815980838fdcd750799812a1fb.m3u8
-#EXTINF:-1 group-title="常用台",CCTV16 https://stream.freetv.fun/75ea2ba5c8e205ed60b191cf2b54e1ad628d19f0fba17b787305f98ab2be17cc.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+https://stream.freetv.fun/17ea1f144b59263f2d36f5a90298c702b333d93f03fe2b2addb4b2bd20fb3401.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+https://stream.freetv.fun/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f77bc40e1b1c.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+https://stream.freetv.fun/30c73d21e6a686395dc3560fb95f93890b280c43a62998db7a9a5476844470ea.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV1
+https://stream.freetv.fun/0ef91c51031b7772fdb7b080bc006776d112c7d029b86cfca9bad6c4294c53bb.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV1
+https://stream.freetv.fun/1be7b03a5e2e8ea8279136571ddd62d0a6115f12adafb11abf139defa629feb1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV1
+https://stream.freetv.fun/2eef9f8c5d705a92278310f3487bf30a060b8fff51dba2b7191ba49652ca3a67.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV13
+https://stream.freetv.fun/864260dae46a78acb1e8ed369525d1c3b8bc16aa69c8789aea0bccf831b6ac40.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV13
+https://stream.freetv.fun/905e61186a743eb0ec6e6d9cb7752d24fd326912824a00bf70584c3c17c6de88.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV13
+https://stream.freetv.fun/938027f33eac943a495b2945e0aecc079e289def6dfaa4028b329f521baad857.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV3
+https://stream.freetv.fun/0e834c6cd6302e55436f760d91369a1e6fae39c2d713f28d9ae5c6134672c0cc.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV3
+https://stream.freetv.fun/3f109a2dbe9bdf8e5652d95baed8901ae0b19e4b153dd3a2655588dbd231c6e5.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV3
+https://stream.freetv.fun/79fa3dfbae67be671edcb57f289f83b05b0c7240cb03d7d08268be291493369c.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="常用台",CCTV5
+https://stream.freetv.fun/1fb410350d0e3242e8daa58e881a026638b4312e90abbb03d5ea0c06b19bbb0b.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="常用台",CCTV5
+https://stream.freetv.fun/5ac66853aba5cb7882c4a8c9933707dda018ab3f2843a10da7db6642febe56cb.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="常用台",CCTV5
+https://stream.freetv.fun/5e8c1e3a97a30f74d4a12db63254feca462e6dc5d0b668092ce1315d96d67613.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="常用台",CCTV5+
+https://stream.freetv.fun/064ae858f16f0f0cc6e7632565469fecbe638db961ac1e5f6819b50c7aed99da.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="常用台",CCTV5+
+https://stream.freetv.fun/3fff25613ac0ffd3d4adb549719315b585868cbe225e9aecfe6917eee97ab492.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="常用台",CCTV5+
+https://stream.freetv.fun/43c445496749c8007bf03f98b5a2e5a5ecce25c7b2fc95b83d940257c0158d72.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="常用台",CCTV16
+https://stream.freetv.fun/1eed949b051a1f777c857e48a480a2010933f0d05751a38873ebe553b4014183.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="常用台",CCTV16
+https://stream.freetv.fun/2070e29726e74ff228f5aa5f59fd24f7d8f694815980838fdcd750799812a1fb.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="常用台",CCTV16
+https://stream.freetv.fun/75ea2ba5c8e205ed60b191cf2b54e1ad628d19f0fba17b787305f98ab2be17cc.m3u8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="常用台",凤凰中文台
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
