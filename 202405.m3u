@@ -1,4 +1,73 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://xyt.186738613.xyz/lngd.php?id=059&Cf.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://113.233.237.68:10010/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://123.245.64.53:4040/udp/239.33.4.123:21230
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://175.147.0.5:8888/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://218.25.44.2:8899/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://218.25.44.2:8899/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://36.129.204.120:880/hh03.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://angtv.cc/test/lngd.php?id=059
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+https://itv.ahcme.edu.cn/hls/hls9.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+https://itv.ahcme.edu.cn/hls/hls142.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://hdtv.haust.edu.cn/hls/hls9.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://hdtv.haust.edu.cn/hls/hls142.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://hdtv.haust.edu.cn/hls/hls185a542.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://hdtv.lzu6.edu.cn/hls/hls185a542.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://39.134.59.91/PLTV/88888888/224/3221226593/index.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226895/index.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://42.176.154.142:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://xyt.186738613.xyz/lngd.php?id=611&Cf.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://59.44.102.18:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://59.44.192.22:65000/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://59.44.192.82:65000/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://histar-proxy.isus.cc/lnty
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://rt4.orangevip.top:8999/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+https://histar.zapi.us.kg/?id=lnty
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="常用台",辽宁体育
+http://123.245.64.65:4040/udp/239.33.4.237:22370
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://xyt.186738613.xyz/lngd.php?id=058&Cf.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://119.117.154.23:4022/rtp/232.0.0.126:1234
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://120.84.121.199:808/hls/133/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://123.163.55.234:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://27.40.16.70:8114/GD_CUCC/G_LIAONING-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+http://aff7da.netsite.cc/proxy/2131459290/2131459290.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
+https://histar.zapi.us.kg/?id=liaoning
+
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="常用台",凤凰中文台
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
