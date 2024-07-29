@@ -1,40 +1,88 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视体育",CCTV-5+
-http://114.241.57.249:4000/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视体育",CCTV-5+
-http://123.183.77.19:808/hls/61/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视体育",CCTV-5+
-http://182.138.179.241:8888/udp/239.93.1.36:8004
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
-http://114.241.57.249:4000/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http://dns.art2kn.win:7000/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http://39.134.61.219/PLTV/88888888/224/3221226924/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http://39.134.61.219/PLTV/88888888/224/3221226912/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http://39.134.61.219/PLTV/88888888/224/3221226900/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http://39.134.61.219/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http:///hls/131/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5+
+http:///hls/129/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
 http://dns.art2kn.win:7000/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
+http://dns.art2kn.win:7000/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
+http://112.46.85.60:8009/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
+http://112.46.85.60:8009/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
+http://112.46.85.60:8009/hls/503/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视体育",CCTV-16
+http://123.184.70.100:801/hls/183/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://123.183.77.19:808/hls/78/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://123.10.79.126:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://114.241.57.249:4000/rtp/239.3.1.173:8001
+http://dns.art2kn.win:7000/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
 http://112.46.85.60:8009/hls/503/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://121.24.99.10:8090/hls/13/index.m3u8
+http://119.117.154.100:4022/rtp/232.0.0.170:1234
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://121.24.98.85:8090/hls/13/index.m3u8
+http://119.117.154.100:4022/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
-http://171.8.244.248:808/hls/5/index.m3u8
+http://218.24.193.146:808/rtp/232.0.0.171:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
+http://218.24.193.146:808/rtp/232.0.0.182:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
+http://218.24.193.146:808/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
+http://218.24.193.146:808/rtp/232.0.0.93:1234
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
+http:///hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视体育",CCTV-5
+http:///hls/118/index.m3u8
 
 #EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://live.fanmingming.com/tv/咪咕24小时体育台.png" group-title="央视体育",咪咕24小时体育台
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://live.fanmingming.com/tv/咪咕24小时体育台.png" group-title="央视体育",咪咕24小时体育台
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="香港台",博斯网球
+http://37.27.111.214:8080/live/16/hls.m3u8
 
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http://dns.art2kn.win:7000/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http://112.46.85.60:8009/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http://123.184.70.100:801/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http://123.184.70.100:801/hls/193/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http://123.184.70.100:801/hls/185/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
+http:///hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV-1
+http://112.46.85.60:8009/hls/501/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="常用台",CCTV-1
+http://dns.art2kn.win:7000/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV-13
+http://112.46.85.60:8009/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="常用台",CCTV-13
+http://dns.art2kn.win:7000/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://119.117.154.100:4022/rtp/232.0.0.93:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://119.117.154.100:4022/rtp/232.0.0.171:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
+http://119.117.154.100:4022/rtp/232.0.0.182:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻.png" group-title="常用台",沈阳新闻
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="常用台",辽宁卫视
-http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="常用台",凤凰中文台
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="常用台",凤凰资讯台
