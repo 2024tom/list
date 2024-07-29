@@ -50,7 +50,7 @@ http:///hls/118/index.m3u8
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://live.fanmingming.com/tv/咪咕24小时体育台.png" group-title="央视体育",咪咕24小时体育台
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="香港台",博斯网球
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="央视体育",博斯网球
 http://37.27.111.214:8080/live/16/hls.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="常用台",CCTV-3
