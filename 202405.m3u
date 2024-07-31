@@ -28,15 +28,15 @@ http://171.8.171.28:8800/rtp/239.16.20.5:10050
 http://182.119.249.127:7002/rtp/225.1.4.75:1104
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
-http://183.11.239.36:808/hls/169/index.m3u8
+https://cntv.lat/tv/live.php?auth=231110&id=cctv164k
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
-http://118.122.2.29:9999/hls/16/index.m3u8
+http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
-http://120.55.49.231:34599/udp/233.50.201.63:5140
+http://175.18.189.238:9902/tsfile/live/1061_1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
-http://120.55.49.231:34599/udp/233.50.201.192:5140
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
-http://120.55.49.231:34599/udp/233.50.200.112:5140
+http://114.243.99.53:4000/rtp/239.3.1.184:8001
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV-16
 http://111.196.186.191:5555/rtp/239.3.1.184:8001
