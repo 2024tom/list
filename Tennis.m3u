@@ -1,201 +1,27 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="271" tvg-logo="https://live.fanmingming.com/tv/271.png",271
-http://222.128.86.76:8133/rtp/239.3.1.271:8001
-#EXTINF:-1 tvg-name="272" tvg-logo="https://live.fanmingming.com/tv/272.png",272
-http://222.128.86.76:8133/rtp/239.3.1.272:8001
-#EXTINF:-1 tvg-name="273" tvg-logo="https://live.fanmingming.com/tv/273.png",273
-http://222.128.86.76:8133/rtp/239.3.1.273:8001
-#EXTINF:-1 tvg-name="274" tvg-logo="https://live.fanmingming.com/tv/274.png",274
-http://222.128.86.76:8133/rtp/239.3.1.274:8001
-#EXTINF:-1 tvg-name="275" tvg-logo="https://live.fanmingming.com/tv/275.png",275
-http://222.128.86.76:8133/rtp/239.3.1.275:8001
-#EXTINF:-1 tvg-name="276" tvg-logo="https://live.fanmingming.com/tv/276.png",276
-http://222.128.86.76:8133/rtp/239.3.1.276:8001
-#EXTINF:-1 tvg-name="277" tvg-logo="https://live.fanmingming.com/tv/277.png",277
-http://222.128.86.76:8133/rtp/239.3.1.277:8001
-#EXTINF:-1 tvg-name="278" tvg-logo="https://live.fanmingming.com/tv/278.png",278
-http://222.128.86.76:8133/rtp/239.3.1.278:8001
-#EXTINF:-1 tvg-name="279" tvg-logo="https://live.fanmingming.com/tv/279.png",279
-http://222.128.86.76:8133/rtp/239.3.1.279:8001
-#EXTINF:-1 tvg-name="280" tvg-logo="https://live.fanmingming.com/tv/280.png",280
-http://222.128.86.76:8133/rtp/239.3.1.280:8001
-#EXTINF:-1 tvg-name="281" tvg-logo="https://live.fanmingming.com/tv/281.png",281
-http://222.128.86.76:8133/rtp/239.3.1.281:8001
-#EXTINF:-1 tvg-name="282" tvg-logo="https://live.fanmingming.com/tv/282.png",282
-http://222.128.86.76:8133/rtp/239.3.1.282:8001
-#EXTINF:-1 tvg-name="283" tvg-logo="https://live.fanmingming.com/tv/283.png",283
-http://222.128.86.76:8133/rtp/239.3.1.283:8001
-#EXTINF:-1 tvg-name="284" tvg-logo="https://live.fanmingming.com/tv/284.png",284
-http://222.128.86.76:8133/rtp/239.3.1.284:8001
-#EXTINF:-1 tvg-name="285" tvg-logo="https://live.fanmingming.com/tv/285.png",285
-http://222.128.86.76:8133/rtp/239.3.1.285:8001
-#EXTINF:-1 tvg-name="286" tvg-logo="https://live.fanmingming.com/tv/286.png",286
-http://222.128.86.76:8133/rtp/239.3.1.286:8001
-#EXTINF:-1 tvg-name="287" tvg-logo="https://live.fanmingming.com/tv/287.png",287
-http://222.128.86.76:8133/rtp/239.3.1.287:8001
-#EXTINF:-1 tvg-name="288" tvg-logo="https://live.fanmingming.com/tv/288.png",288
-http://222.128.86.76:8133/rtp/239.3.1.288:8001
-#EXTINF:-1 tvg-name="289" tvg-logo="https://live.fanmingming.com/tv/289.png",289
-http://222.128.86.76:8133/rtp/239.3.1.289:8001
-#EXTINF:-1 tvg-name="290" tvg-logo="https://live.fanmingming.com/tv/290.png",290
-http://222.128.86.76:8133/rtp/239.3.1.290:8001
-#EXTINF:-1 tvg-name="291" tvg-logo="https://live.fanmingming.com/tv/291.png",291
-http://222.128.86.76:8133/rtp/239.3.1.291:8001
-#EXTINF:-1 tvg-name="292" tvg-logo="https://live.fanmingming.com/tv/292.png",292
-http://222.128.86.76:8133/rtp/239.3.1.292:8001
-#EXTINF:-1 tvg-name="293" tvg-logo="https://live.fanmingming.com/tv/293.png",293
-http://222.128.86.76:8133/rtp/239.3.1.293:8001
-#EXTINF:-1 tvg-name="294" tvg-logo="https://live.fanmingming.com/tv/294.png",294
-http://222.128.86.76:8133/rtp/239.3.1.294:8001
-#EXTINF:-1 tvg-name="295" tvg-logo="https://live.fanmingming.com/tv/295.png",295
-http://222.128.86.76:8133/rtp/239.3.1.295:8001
-#EXTINF:-1 tvg-name="296" tvg-logo="https://live.fanmingming.com/tv/296.png",296
-http://222.128.86.76:8133/rtp/239.3.1.296:8001
-#EXTINF:-1 tvg-name="297" tvg-logo="https://live.fanmingming.com/tv/297.png",297
-http://222.128.86.76:8133/rtp/239.3.1.297:8001
-#EXTINF:-1 tvg-name="298" tvg-logo="https://live.fanmingming.com/tv/298.png",298
-http://222.128.86.76:8133/rtp/239.3.1.298:8001
-#EXTINF:-1 tvg-name="299" tvg-logo="https://live.fanmingming.com/tv/299.png",299
-http://222.128.86.76:8133/rtp/239.3.1.299:8001
-#EXTINF:-1 tvg-name="300" tvg-logo="https://live.fanmingming.com/tv/300.png",300
-http://222.128.86.76:8133/rtp/239.3.1.300:8001
-#EXTINF:-1 tvg-name="301" tvg-logo="https://live.fanmingming.com/tv/301.png",301
-http://222.128.86.76:8133/rtp/239.3.1.301:8001
-#EXTINF:-1 tvg-name="302" tvg-logo="https://live.fanmingming.com/tv/302.png",302
-http://222.128.86.76:8133/rtp/239.3.1.302:8001
-#EXTINF:-1 tvg-name="303" tvg-logo="https://live.fanmingming.com/tv/303.png",303
-http://222.128.86.76:8133/rtp/239.3.1.303:8001
-#EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.com/tv/304.png",304
-http://222.128.86.76:8133/rtp/239.3.1.304:8001
-#EXTINF:-1 tvg-name="305" tvg-logo="https://live.fanmingming.com/tv/305.png",305
-http://222.128.86.76:8133/rtp/239.3.1.305:8001
-#EXTINF:-1 tvg-name="306" tvg-logo="https://live.fanmingming.com/tv/306.png",306
-http://222.128.86.76:8133/rtp/239.3.1.306:8001
-#EXTINF:-1 tvg-name="307" tvg-logo="https://live.fanmingming.com/tv/307.png",307
-http://222.128.86.76:8133/rtp/239.3.1.307:8001
-#EXTINF:-1 tvg-name="308" tvg-logo="https://live.fanmingming.com/tv/308.png",308
-http://222.128.86.76:8133/rtp/239.3.1.308:8001
-#EXTINF:-1 tvg-name="309" tvg-logo="https://live.fanmingming.com/tv/309.png",309
-http://222.128.86.76:8133/rtp/239.3.1.309:8001
-#EXTINF:-1 tvg-name="310" tvg-logo="https://live.fanmingming.com/tv/310.png",310
-http://222.128.86.76:8133/rtp/239.3.1.310:8001
-#EXTINF:-1 tvg-name="311" tvg-logo="https://live.fanmingming.com/tv/311.png",311
-http://222.128.86.76:8133/rtp/239.3.1.311:8001
-#EXTINF:-1 tvg-name="312" tvg-logo="https://live.fanmingming.com/tv/312.png",312
-http://222.128.86.76:8133/rtp/239.3.1.312:8001
-#EXTINF:-1 tvg-name="313" tvg-logo="https://live.fanmingming.com/tv/313.png",313
-http://222.128.86.76:8133/rtp/239.3.1.313:8001
-#EXTINF:-1 tvg-name="314" tvg-logo="https://live.fanmingming.com/tv/314.png",314
-http://222.128.86.76:8133/rtp/239.3.1.314:8001
-#EXTINF:-1 tvg-name="315" tvg-logo="https://live.fanmingming.com/tv/315.png",315
-http://222.128.86.76:8133/rtp/239.3.1.315:8001
-#EXTINF:-1 tvg-name="316" tvg-logo="https://live.fanmingming.com/tv/316.png",316
-http://222.128.86.76:8133/rtp/239.3.1.316:8001
-#EXTINF:-1 tvg-name="317" tvg-logo="https://live.fanmingming.com/tv/317.png",317
-http://222.128.86.76:8133/rtp/239.3.1.317:8001
-#EXTINF:-1 tvg-name="318" tvg-logo="https://live.fanmingming.com/tv/318.png",318
-http://222.128.86.76:8133/rtp/239.3.1.318:8001
-#EXTINF:-1 tvg-name="319" tvg-logo="https://live.fanmingming.com/tv/319.png",319
-http://222.128.86.76:8133/rtp/239.3.1.319:8001
-#EXTINF:-1 tvg-name="320" tvg-logo="https://live.fanmingming.com/tv/320.png",320
-http://222.128.86.76:8133/rtp/239.3.1.320:8001
-#EXTINF:-1 tvg-name="321" tvg-logo="https://live.fanmingming.com/tv/321.png",321
-http://222.128.86.76:8133/rtp/239.3.1.321:8001
-#EXTINF:-1 tvg-name="322" tvg-logo="https://live.fanmingming.com/tv/322.png",322
-http://222.128.86.76:8133/rtp/239.3.1.322:8001
-#EXTINF:-1 tvg-name="323" tvg-logo="https://live.fanmingming.com/tv/323.png",323
-http://222.128.86.76:8133/rtp/239.3.1.323:8001
-#EXTINF:-1 tvg-name="324" tvg-logo="https://live.fanmingming.com/tv/324.png",324
-http://222.128.86.76:8133/rtp/239.3.1.324:8001
-#EXTINF:-1 tvg-name="325" tvg-logo="https://live.fanmingming.com/tv/325.png",325
-http://222.128.86.76:8133/rtp/239.3.1.325:8001
-#EXTINF:-1 tvg-name="326" tvg-logo="https://live.fanmingming.com/tv/326.png",326
-http://222.128.86.76:8133/rtp/239.3.1.326:8001
-#EXTINF:-1 tvg-name="327" tvg-logo="https://live.fanmingming.com/tv/327.png",327
-http://222.128.86.76:8133/rtp/239.3.1.327:8001
-#EXTINF:-1 tvg-name="328" tvg-logo="https://live.fanmingming.com/tv/328.png",328
-http://222.128.86.76:8133/rtp/239.3.1.328:8001
-#EXTINF:-1 tvg-name="329" tvg-logo="https://live.fanmingming.com/tv/329.png",329
-http://222.128.86.76:8133/rtp/239.3.1.329:8001
-#EXTINF:-1 tvg-name="330" tvg-logo="https://live.fanmingming.com/tv/330.png",330
-http://222.128.86.76:8133/rtp/239.3.1.330:8001
-#EXTINF:-1 tvg-name="331" tvg-logo="https://live.fanmingming.com/tv/331.png",331
-http://222.128.86.76:8133/rtp/239.3.1.331:8001
-#EXTINF:-1 tvg-name="332" tvg-logo="https://live.fanmingming.com/tv/332.png",332
-http://222.128.86.76:8133/rtp/239.3.1.332:8001
-#EXTINF:-1 tvg-name="333" tvg-logo="https://live.fanmingming.com/tv/333.png",333
-http://222.128.86.76:8133/rtp/239.3.1.333:8001
-#EXTINF:-1 tvg-name="334" tvg-logo="https://live.fanmingming.com/tv/334.png",334
-http://222.128.86.76:8133/rtp/239.3.1.334:8001
-#EXTINF:-1 tvg-name="335" tvg-logo="https://live.fanmingming.com/tv/335.png",335
-http://222.128.86.76:8133/rtp/239.3.1.335:8001
-#EXTINF:-1 tvg-name="336" tvg-logo="https://live.fanmingming.com/tv/336.png",336
-http://222.128.86.76:8133/rtp/239.3.1.336:8001
-#EXTINF:-1 tvg-name="337" tvg-logo="https://live.fanmingming.com/tv/337.png",337
-http://222.128.86.76:8133/rtp/239.3.1.337:8001
-#EXTINF:-1 tvg-name="338" tvg-logo="https://live.fanmingming.com/tv/338.png",338
-http://222.128.86.76:8133/rtp/239.3.1.338:8001
-#EXTINF:-1 tvg-name="339" tvg-logo="https://live.fanmingming.com/tv/339.png",339
-http://222.128.86.76:8133/rtp/239.3.1.339:8001
-#EXTINF:-1 tvg-name="340" tvg-logo="https://live.fanmingming.com/tv/340.png",340
-http://222.128.86.76:8133/rtp/239.3.1.340:8001
-#EXTINF:-1 tvg-name="341" tvg-logo="https://live.fanmingming.com/tv/341.png",341
-http://222.128.86.76:8133/rtp/239.3.1.341:8001
-#EXTINF:-1 tvg-name="342" tvg-logo="https://live.fanmingming.com/tv/342.png",342
-http://222.128.86.76:8133/rtp/239.3.1.342:8001
-#EXTINF:-1 tvg-name="343" tvg-logo="https://live.fanmingming.com/tv/343.png",343
-http://222.128.86.76:8133/rtp/239.3.1.343:8001
-#EXTINF:-1 tvg-name="344" tvg-logo="https://live.fanmingming.com/tv/344.png",344
-http://222.128.86.76:8133/rtp/239.3.1.344:8001
-#EXTINF:-1 tvg-name="345" tvg-logo="https://live.fanmingming.com/tv/345.png",345
-http://222.128.86.76:8133/rtp/239.3.1.345:8001
-#EXTINF:-1 tvg-name="346" tvg-logo="https://live.fanmingming.com/tv/346.png",346
-http://222.128.86.76:8133/rtp/239.3.1.346:8001
-#EXTINF:-1 tvg-name="347" tvg-logo="https://live.fanmingming.com/tv/347.png",347
-http://222.128.86.76:8133/rtp/239.3.1.347:8001
-#EXTINF:-1 tvg-name="348" tvg-logo="https://live.fanmingming.com/tv/348.png",348
-http://222.128.86.76:8133/rtp/239.3.1.348:8001
-#EXTINF:-1 tvg-name="349" tvg-logo="https://live.fanmingming.com/tv/349.png",349
-http://222.128.86.76:8133/rtp/239.3.1.349:8001
-#EXTINF:-1 tvg-name="350" tvg-logo="https://live.fanmingming.com/tv/350.png",350
-http://222.128.86.76:8133/rtp/239.3.1.350:8001
-#EXTINF:-1 tvg-name="351" tvg-logo="https://live.fanmingming.com/tv/351.png",351
-http://222.128.86.76:8133/rtp/239.3.1.351:8001
-#EXTINF:-1 tvg-name="352" tvg-logo="https://live.fanmingming.com/tv/352.png",352
-http://222.128.86.76:8133/rtp/239.3.1.352:8001
-#EXTINF:-1 tvg-name="353" tvg-logo="https://live.fanmingming.com/tv/353.png",353
-http://222.128.86.76:8133/rtp/239.3.1.353:8001
-#EXTINF:-1 tvg-name="354" tvg-logo="https://live.fanmingming.com/tv/354.png",354
-http://222.128.86.76:8133/rtp/239.3.1.354:8001
-#EXTINF:-1 tvg-name="355" tvg-logo="https://live.fanmingming.com/tv/355.png",355
-http://222.128.86.76:8133/rtp/239.3.1.355:8001
-#EXTINF:-1 tvg-name="356" tvg-logo="https://live.fanmingming.com/tv/356.png",356
-http://222.128.86.76:8133/rtp/239.3.1.356:8001
-#EXTINF:-1 tvg-name="357" tvg-logo="https://live.fanmingming.com/tv/357.png",357
-http://222.128.86.76:8133/rtp/239.3.1.357:8001
-#EXTINF:-1 tvg-name="358" tvg-logo="https://live.fanmingming.com/tv/358.png",358
-http://222.128.86.76:8133/rtp/239.3.1.358:8001
-#EXTINF:-1 tvg-name="359" tvg-logo="https://live.fanmingming.com/tv/359.png",359
-http://222.128.86.76:8133/rtp/239.3.1.359:8001
-#EXTINF:-1 tvg-name="360" tvg-logo="https://live.fanmingming.com/tv/360.png",360
-http://222.128.86.76:8133/rtp/239.3.1.360:8001
-#EXTINF:-1 tvg-name="361" tvg-logo="https://live.fanmingming.com/tv/361.png",361
-http://222.128.86.76:8133/rtp/239.3.1.361:8001
-#EXTINF:-1 tvg-name="362" tvg-logo="https://live.fanmingming.com/tv/362.png",362
-http://222.128.86.76:8133/rtp/239.3.1.362:8001
-#EXTINF:-1 tvg-name="363" tvg-logo="https://live.fanmingming.com/tv/363.png",363
-http://222.128.86.76:8133/rtp/239.3.1.363:8001
-#EXTINF:-1 tvg-name="364" tvg-logo="https://live.fanmingming.com/tv/364.png",364
-http://222.128.86.76:8133/rtp/239.3.1.364:8001
-#EXTINF:-1 tvg-name="365" tvg-logo="https://live.fanmingming.com/tv/365.png",365
-http://222.128.86.76:8133/rtp/239.3.1.365:8001
-#EXTINF:-1 tvg-name="366" tvg-logo="https://live.fanmingming.com/tv/366.png",366
-http://222.128.86.76:8133/rtp/239.3.1.366:8001
-#EXTINF:-1 tvg-name="367" tvg-logo="https://live.fanmingming.com/tv/367.png",367
-http://222.128.86.76:8133/rtp/239.3.1.367:8001
-#EXTINF:-1 tvg-name="368" tvg-logo="https://live.fanmingming.com/tv/368.png",368
-http://222.128.86.76:8133/rtp/239.3.1.368:8001
-#EXTINF:-1 tvg-name="369" tvg-logo="https://live.fanmingming.com/tv/369.png",369
-http://222.128.86.76:8133/rtp/239.3.1.369:8001
-#EXTINF:-1 tvg-name="370" tvg-logo="https://live.fanmingming.com/tv/370.png",370
-http://222.128.86.76:8133/rtp/239.3.1.370:8001
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 HD
+http://114.246.180.128:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 HD
+http://221.221.155.31:8888/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 HD
+http://123.112.212.132:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://live.fanmingming.com/tv/CCTV13HD.png",CCTV13HD
+http://111.194.239.45:6060/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 HD
+http://114.246.180.128:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV15HD" tvg-logo="https://live.fanmingming.com/tv/CCTV15HD.png",CCTV15HD
+http://114.243.109.109:8822/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV15HD" tvg-logo="https://live.fanmingming.com/tv/CCTV15HD.png",CCTV15HD
+http://123.118.224.199:9090/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1HD.png",CCTV1HD
+http://221.219.100.121:2323/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 HD
+http://222.129.34.76:8686/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 HD
+http://114.243.104.126:8888/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 HD
+http://123.117.36.74:4001/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-name="CCTV7HD" tvg-logo="https://live.fanmingming.com/tv/CCTV7HD.png",CCTV7HD
+http://222.129.34.76:8686/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV7HD" tvg-logo="https://live.fanmingming.com/tv/CCTV7HD.png",CCTV7HD
+http://222.129.34.76:8686/rtp/239.3.1.61:8104
