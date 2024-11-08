@@ -1,22 +1,40 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
-https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
-https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5+
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17
+http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv17
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
 http://122.241.215.142:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
