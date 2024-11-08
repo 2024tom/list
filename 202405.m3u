@@ -1,93 +1,81 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://115.197.221.22:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://115.201.186.133:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://115.221.86.0:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://115.221.90.25:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://115.239.1.122:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://115.239.104.249:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://122.231.123.34:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://122.241.215.142:4022/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯高清.png",凤凰资讯高清
-http://122.243.229.66:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://122.246.42.137:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://122.247.121.96:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://125.117.178.14:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯高清.png",凤凰资讯高清
-http://125.123.147.253:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://125.126.204.181:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.com/tv/博斯網球.png",博斯網球
-http://154.9.228.245:741/smt.php?id=bositennis_twn
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://183.130.30.174:8808/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯高清.png",凤凰资讯高清
-http://183.130.30.174:8808/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.com/tv/凤凰中文HD.png",凤凰中文HD
-http://183.130.30.174:8808/udp/233.50.200.42:5140
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
-http://183.130.30.174:8808/udp/233.50.201.58:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://183.130.46.157:8808/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯高清.png",凤凰资讯高清
-http://183.141.216.16:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://183.141.23.200:19888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://183.141.43.219:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://183.149.219.170:5555/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://183.157.96.250:4000/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.com/tv/博斯網球.png",博斯網球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://220.188.100.42:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://36.24.76.13:8888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.com/tv/博斯網球.png",博斯網球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.com/tv/博斯網球.png",博斯網球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://60.162.65.44:9999/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://60.179.30.166:4022/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png",凤凰资讯HD
-http://60.189.165.36:5555/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
-http://66.181.39.224/ml.php?id=bositennis_twn
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://www.372583307.top:4022/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯高清.png",凤凰资讯高清
-http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.com/tv/博斯網球.png",博斯網球
-https://bsex.serv00.net/Smart.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="sky_sport_tennis" tvg-logo="https://live.fanmingming.com/tv/sky_sport_tennis.png",sky_sport_tennis
+https://stream1.freetv.fun/402dd5f06e443a59fb462c16e8c92f44069ec70fd1e95616782f1d19962114b4.ctv
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/89
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6096/index.m3u8
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+https://stream1.freetv.fun/8e567d7a054a578ab6943b3e6201717c45abd75de95b48c88c633bc201ba383a.m3u8
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+http://vipsyn.com:8080/live/Muratkaraca/HqxpVA3L7djM/72847.ts
+#EXTINF:-1 tvg-name="Super Tennis" tvg-logo="https://live.fanmingming.com/tv/Super Tennis.png",Super Tennis
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://cookies.elementfx.com/ublive/ublive.php?id=1519
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://z02.ubtvfans.com/live/rx3/1519/6e76f06bb25deed49d124b64a0dee940/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/15411
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel US" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel US.png",Tennis Channel US
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TENNIS" tvg-logo="https://live.fanmingming.com/tv/TENNIS.png",TENNIS
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://sc2022.stream-link.org/tv2306.php?id=s13&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://4k.best-tv.me:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=324994&extension=ts
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6096/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=45474
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=45474&extension=ts
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7262/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://stream1.freetv.fun/e2621204619ae409abac1beb9f9c6f35fd4bb6060dc416c5e51b2b0f63aaf835.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://live.fanmingming.com/tv/Tennis Channel.png",Tennis Channel
+https://stream1.freetv.fun/9192591d9f406dffcb2c559cd4f87c6f6b5908e9a10c10edc837fba2b8c0c327.m3u8
+#EXTINF:-1 tvg-name="ZIGGO Tennis" tvg-logo="https://live.fanmingming.com/tv/ZIGGO Tennis.png",ZIGGO Tennis
+https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?end=END&start=LIVE&checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://154.9.228.245:741/smt.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+https://bsex.serv00.net/Smart.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://66.181.39.224/ml.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-tennis
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png",博斯网球
+https://test.zapi.us.kg/?id=sportcast-tennis
